@@ -1,0 +1,3 @@
+JAVA_APP_JAR=rdvmaster-0.0.1-SNAPSHOT.war
+ARTIFACT_COPY_ARGS=*.war
+MAVEN_ARGS=-Pprod -DskipTests package
